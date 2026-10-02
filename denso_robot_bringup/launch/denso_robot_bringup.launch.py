@@ -400,7 +400,7 @@ def generate_launch_description():
         move_group_node,
 #        mongodb_server_node,
         rviz_node,
-        static_tf,
+        # static_tf,
         gazebo,
         spawn_entity,
         robot_state_publisher_node,
